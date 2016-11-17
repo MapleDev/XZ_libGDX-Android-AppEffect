@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\DouQuProject\Demo\_S\libGDX-Android-AppEffect\app\libs\gdx-box2d.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5b1edbfb639950e4a02214d02a8e3841e2716382">
+        <dex dex="E:\DouQuProject\Demo\_S\libGDX-Android-AppEffect\app\build\intermediates\pre-dexed\debug\gdx-box2d_ec62eba29e27b91e83888337596afd4f50a4ff66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\DouQuProject\Demo\_S\libGDX-Android-AppEffect\app\libs\gdx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="10469e4371df07b778bcc0fa14205e4625b85d72">
+        <dex dex="E:\DouQuProject\Demo\_S\libGDX-Android-AppEffect\app\build\intermediates\pre-dexed\debug\gdx_bc75540f73420f92245db1fc9c6662f5d0ca85ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\DouQuProject\Demo\_S\libGDX-Android-AppEffect\app\libs\gdx-backend-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd459f86946ba712fd473d09ef5c7f1ac8bff629">
+        <dex dex="E:\DouQuProject\Demo\_S\libGDX-Android-AppEffect\app\build\intermediates\pre-dexed\debug\gdx-backend-android_692449caf895646f37036239e615f5ee18f48716.jar" />
+    </item>
+
+</items>
